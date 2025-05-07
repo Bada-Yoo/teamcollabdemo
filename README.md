@@ -1,1 +1,2 @@
 collabdemo
+PROJECT beta
